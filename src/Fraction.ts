@@ -4,7 +4,12 @@ export class Fraction {
         this.integerValue = integerValue;
     }
     plus(that: Fraction): Fraction {
-        return this;
+        if (that.integerValue != 0) {
+            return that;
+        }
+        else {
+            return this;
+        }
     }
     intValue(): number {
        return this.integerValue;
