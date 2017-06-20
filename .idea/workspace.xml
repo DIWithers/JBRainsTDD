@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a298d663-4d57-41f5-9457-4834e1b6b428" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Fraction.ts" afterPath="$PROJECT_DIR$/src/Fraction.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/Fraction.spec.ts" afterPath="$PROJECT_DIR$/spec/Fraction.spec.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,21 +17,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Fraction.spec.ts" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Fraction.spec.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/Fraction.spec.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="63" lean-forward="false" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+            <state relative-caret-position="315">
+              <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fraction.ts" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Fraction.ts" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Fraction.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="180">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -47,8 +46,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/spec/Fraction.spec.ts" />
         <option value="$PROJECT_DIR$/src/Fraction.ts" />
+        <option value="$PROJECT_DIR$/spec/Fraction.spec.ts" />
       </list>
     </option>
   </component>
@@ -245,20 +244,11 @@
       <updated>1497890012452</updated>
       <workItem from="1497890018702" duration="1713000" />
       <workItem from="1497902068956" duration="508000" />
-      <workItem from="1497961582836" duration="1426000" />
+      <workItem from="1497961582836" duration="1607000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JBRains - 2017.06.20 at 08h 38m 39s.xml">
-      <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
-    </history-entry>
-    <history-entry file="JBRains - 2017.06.20 at 08h 40m 33s.xml">
-      <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
-    </history-entry>
-    <history-entry file="JBRains - 2017.06.20 at 08h 40m 35s.xml">
-      <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
-    </history-entry>
     <history-entry file="JBRains - 2017.06.20 at 08h 47m 25s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
@@ -280,9 +270,18 @@
     <history-entry file="JBRains - 2017.06.20 at 08h 52m 04s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
+    <history-entry file="JBRains - 2017.06.20 at 08h 55m 03s.xml">
+      <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
+    </history-entry>
+    <history-entry file="JBRains - 2017.06.20 at 08h 55m 07s.xml">
+      <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
+    </history-entry>
+    <history-entry file="JBRains - 2017.06.20 at 08h 55m 10s.xml">
+      <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4446000" />
+    <option name="totallyTimeSpent" value="4627000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="660" y="23" width="607" height="731" extended-state="0" />
@@ -561,18 +560,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec/Fraction.spec.ts">
+    <entry file="file://$PROJECT_DIR$/src/Fraction.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="63" lean-forward="false" selection-start-line="15" selection-start-column="63" selection-end-line="15" selection-end-column="63" />
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fraction.ts">
+    <entry file="file://$PROJECT_DIR$/spec/Fraction.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="8" lean-forward="false" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="315">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
           <folding />
         </state>
       </provider>
