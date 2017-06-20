@@ -12,4 +12,8 @@ describe("AddFractionsTest", () => {
         let sum: Fraction = new Fraction(0).plus(new Fraction(5));
         expect(sum.intValue()).toEqual(5);
     });
+    it("non-negative, non-zero operands ", () => {
+        let sum: Fraction = new Fraction(3).plus(new Fraction(4));
+        expect(sum.intValue()).toEqual(7);
+    });
 });
