@@ -7,7 +7,7 @@ export class Fraction {
         return this;
     }
     intValue(): number {
-       return 0;
+       return this.integerValue;
     }
 
 }
