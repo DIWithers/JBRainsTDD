@@ -1,8 +1,10 @@
 export class Fraction {
+    numerator: number;
     denominator: number = 1;
     integerValue: number;
     constructor(numerator: number, denominator?: number) {
         this.integerValue = numerator;
+        this.numerator = numerator;
         this.denominator = denominator;
     }
 
@@ -13,7 +15,7 @@ export class Fraction {
        return this.integerValue;
     }
     getNumerator(): number {
-        return 3;
+        return this.numerator;
     }
     getDenominator(): number {
         return this.denominator;
