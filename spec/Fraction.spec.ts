@@ -15,4 +15,10 @@ describe("AddFractionsTest", () => {
     it("negative inputs and negative outputs", () => {
         expect(new Fraction(-3).plus(new Fraction(1)).intValue()).toEqual(-2);
     });
+    it("non-trivial denominator", () => {
+        let sum: Fraction = new Fraction(1, 5).plus(new Fraction(2, 5));
+        expect(sum.getNumerator()).toEqual(3);
+        expect(sum.getDenominator()).toEqual(5);
+
+    });
 });
