@@ -9,10 +9,10 @@ export class Fraction {
     }
 
     plus(that: Fraction): Fraction {
-        return new Fraction(this.integerValue + that.integerValue, this.denominator);
+        return new Fraction(this.numerator + that.numerator, this.denominator);
     }
     intValue(): number {
-       return this.integerValue;
+       return this.numerator;
     }
     getNumerator(): number {
         return this.numerator;
