@@ -30,8 +30,8 @@
       <file leaf-file-name="Fraction.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Fraction.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -247,14 +247,11 @@
       <workItem from="1497902068956" duration="508000" />
       <workItem from="1497961582836" duration="3521000" />
       <workItem from="1497972560123" duration="2014000" />
-      <workItem from="1498041892193" duration="2523000" />
+      <workItem from="1498041892193" duration="2581000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JBRains - 2017.06.21 at 09h 01m 28s.xml">
-      <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
-    </history-entry>
     <history-entry file="JBRains - 2017.06.21 at 09h 02m 59s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
@@ -282,9 +279,12 @@
     <history-entry file="JBRains - 2017.06.21 at 12h 07m 08s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
+    <history-entry file="JBRains - 2017.06.21 at 12h 08m 06s.xml">
+      <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11078000" />
+    <option name="totallyTimeSpent" value="11136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="660" y="23" width="607" height="731" extended-state="0" />
@@ -598,8 +598,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Fraction.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
