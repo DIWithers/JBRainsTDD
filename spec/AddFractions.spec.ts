@@ -1,4 +1,4 @@
-import {Fraction} from "../src/Fraction";
+import {Fraction} from "../src/AddFractions";
 describe("AddFractionsTest", () => {
     it("zero plus zero", () => {
         expect(new Fraction(0).plus(new Fraction(0)).intValue()).toEqual(0);
@@ -19,6 +19,5 @@ describe("AddFractionsTest", () => {
         let sum: Fraction = new Fraction(1, 5).plus(new Fraction(2, 5));
         expect(sum.getNumerator()).toEqual(3);
         expect(sum.getDenominator()).toEqual(5);
-
     });
 });
