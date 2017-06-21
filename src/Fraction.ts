@@ -14,7 +14,7 @@ export class Fraction {
         return 3;
     }
     getDenominator(): number {
-        return 5 ;
+        return 5;
     }
 
 }
