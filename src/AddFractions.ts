@@ -3,7 +3,9 @@ export class Fraction {
     denominator: number = 1;
     constructor(numerator: number, denominator?: number) {
         this.numerator = numerator;
-        this.denominator = denominator;
+        if (denominator) {
+            this.denominator = denominator;
+        }
     }
 
     plus(that: Fraction): Fraction {
