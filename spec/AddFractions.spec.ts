@@ -10,7 +10,7 @@ describe("AddFractionsTest", () => {
         expect(new Fraction(0).plus(new Fraction(5)).intValue()).toEqual(5);
     });
     it("non-negative, non-zero operands ", () => {
-        expect(new Fraction(3).plus(new Fraction(4)).intValue()).toEqual(7);
+        expect(new Fraction(3).plus(new Fraction(4))).toEqual(new Fraction(7));
     });
     it("negative inputs and negative outputs", () => {
         expect(new Fraction(-3).plus(new Fraction(1))).toEqual(new Fraction(-2));
