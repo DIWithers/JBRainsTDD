@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a298d663-4d57-41f5-9457-4834e1b6b428" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/GreatestCommonDivisor.spec.ts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/ReduceFractions.spec.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/AddFractions.spec.ts" afterPath="$PROJECT_DIR$/spec/AddFractions.spec.ts" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/GreatestCommonDivisor.spec.ts" afterPath="$PROJECT_DIR$/spec/GreatestCommonDivisor.spec.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,8 +20,8 @@
       <file leaf-file-name="GreatestCommonDivisor.spec.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/GreatestCommonDivisor.spec.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+            <state relative-caret-position="203">
+              <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -261,44 +258,44 @@
       <workItem from="1498041892193" duration="4156000" />
       <workItem from="1498072501728" duration="3367000" />
       <workItem from="1498127180981" duration="5386000" />
-      <workItem from="1498148758083" duration="740000" />
+      <workItem from="1498148758083" duration="1532000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JBRains - 2017.06.22 at 08h 48m 58s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 12h 42m 48s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 08h 50m 21s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 12h 44m 35s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 08h 52m 26s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 12h 44m 47s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 09h 06m 14s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 12h 46m 03s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 09h 09m 35s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 12h 46m 45s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 12h 35m 01s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 12h 47m 10s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 12h 35m 59s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 12h 47m 18s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 12h 37m 38s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 12h 47m 24s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 12h 38m 42s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 12h 47m 28s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 12h 38m 48s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 12h 49m 14s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22204000" />
+    <option name="totallyTimeSpent" value="22996000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="638" y="23" width="629" height="731" extended-state="0" />
@@ -309,7 +306,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -678,8 +675,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/GreatestCommonDivisor.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="3" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="3" />
+        <state relative-caret-position="203">
+          <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
           <folding />
         </state>
       </provider>
