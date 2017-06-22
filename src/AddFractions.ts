@@ -11,13 +11,4 @@ export class Fraction {
     plus(that: Fraction): Fraction {
         return new Fraction(this.numerator + that.numerator, this.denominator);
     }
-    intValue(): number {
-       return this.numerator;
-    }
-    getNumerator(): number {
-        return this.numerator;
-    }
-    getDenominator(): number {
-        return this.denominator;
-    }
 }
