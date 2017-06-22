@@ -17,7 +17,6 @@ describe("AddFractionsTest", () => {
     });
     it("non-trivial denominator of the same value", () => {
         let sum: Fraction = new Fraction(1, 5).plus(new Fraction(2, 5));
-        expect(sum.getNumerator()).toEqual(3);
-        expect(sum.getDenominator()).toEqual(5);
+        expect(new Fraction(3, 5)).toEqual(sum);
     });
 });
