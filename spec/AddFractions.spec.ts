@@ -1,13 +1,18 @@
 import {Fraction} from "../src/AddFractions";
+
 describe("AddFractionsTest", () => {
+    function checkAddFractionsAsIntegers(addend: number, augend: number, expectedResult: number): void {
+        expect(new Fraction(addend).plus(new Fraction(augend))).toEqual(new Fraction(expectedResult));
+    }
+
     it("zero plus zero", () => {
-        expect(new Fraction(0).plus(new Fraction(0)).intValue()).toEqual(0);
+        checkAddFractionsAsIntegers(0, 0, 0);
     });
     it("non-zero plus zero", () => {
-        expect(new Fraction(3).plus(new Fraction(0)).intValue()).toEqual(3);
+        checkAddFractionsAsIntegers(3, 0, 3);
     });
     it("zero plus non-zero", () => {
-        expect(new Fraction(0).plus(new Fraction(5)).intValue()).toEqual(5);
+        checkAddFractionsAsIntegers(0, 5, 5);
     });
     it("non-negative, non-zero operands ", () => {
         expect(new Fraction(3).plus(new Fraction(4))).toEqual(new Fraction(7));

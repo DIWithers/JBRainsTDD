@@ -20,8 +20,8 @@
       <file leaf-file-name="AddFractions.spec.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/AddFractions.spec.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="4" column="63" lean-forward="false" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -255,44 +255,44 @@
       <workItem from="1497972560123" duration="2014000" />
       <workItem from="1498041892193" duration="4156000" />
       <workItem from="1498072501728" duration="3367000" />
-      <workItem from="1498127180981" duration="1507000" />
+      <workItem from="1498127180981" duration="2543000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JBRains - 2017.06.22 at 08h 01m 46s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 08h 17m 28s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 08h 02m 17s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 08h 18m 12s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 08h 02m 29s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 08h 18m 16s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 08h 07m 39s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 08h 18m 39s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 08h 07m 59s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 08h 19m 39s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 08h 08m 18s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 08h 23m 02s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 08h 10m 12s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 08h 24m 23s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 08h 10m 47s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 08h 24m 39s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 08h 10m 50s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 08h 26m 00s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 08h 11m 11s.xml">
+    <history-entry file="JBRains - 2017.06.22 at 08h 28m 59s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17585000" />
+    <option name="totallyTimeSpent" value="18621000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="732" y="23" width="535" height="731" extended-state="0" />
@@ -623,8 +623,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/AddFractions.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="60">
+          <caret line="4" column="63" lean-forward="false" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
           <folding />
         </state>
       </provider>
