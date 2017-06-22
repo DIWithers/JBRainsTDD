@@ -9,6 +9,11 @@ export class Fraction {
     }
 
     plus(that: Fraction): Fraction {
-        return new Fraction(this.numerator + that.numerator, this.denominator);
+        if (this.denominator !== that.denominator) {
+            return new Fraction(this.numerator * that.denominator + that.numerator * this.denominator, this.denominator * that.denominator);
+        }
+        else {
+            return new Fraction(this.numerator + that.numerator, this.denominator);
+        }
     }
 }
