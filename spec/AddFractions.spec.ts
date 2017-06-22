@@ -13,7 +13,7 @@ describe("AddFractionsTest", () => {
         expect(new Fraction(3).plus(new Fraction(4)).intValue()).toEqual(7);
     });
     it("negative inputs and negative outputs", () => {
-        expect(new Fraction(-3).plus(new Fraction(1)).intValue()).toEqual(-2);
+        expect(new Fraction(-3).plus(new Fraction(1))).toEqual(new Fraction(-2));
     });
     it("non-trivial denominator of the same value", () => {
         let sum: Fraction = new Fraction(1, 5).plus(new Fraction(2, 5));
