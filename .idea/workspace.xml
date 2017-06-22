@@ -20,8 +20,8 @@
       <file leaf-file-name="GreatestCommonDivisor.spec.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/GreatestCommonDivisor.spec.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+            <state relative-caret-position="255">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -258,20 +258,11 @@
       <workItem from="1498041892193" duration="4156000" />
       <workItem from="1498072501728" duration="3367000" />
       <workItem from="1498127180981" duration="5386000" />
-      <workItem from="1498148758083" duration="1532000" />
+      <workItem from="1498148758083" duration="1737000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JBRains - 2017.06.22 at 12h 42m 48s.xml">
-      <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
-    </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 12h 44m 35s.xml">
-      <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
-    </history-entry>
-    <history-entry file="JBRains - 2017.06.22 at 12h 44m 47s.xml">
-      <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
-    </history-entry>
     <history-entry file="JBRains - 2017.06.22 at 12h 46m 03s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
@@ -293,9 +284,18 @@
     <history-entry file="JBRains - 2017.06.22 at 12h 49m 14s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
+    <history-entry file="JBRains - 2017.06.22 at 12h 55m 01s.xml">
+      <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
+    </history-entry>
+    <history-entry file="JBRains - 2017.06.22 at 12h 55m 19s.xml">
+      <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
+    </history-entry>
+    <history-entry file="JBRains - 2017.06.22 at 12h 55m 43s.xml">
+      <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22996000" />
+    <option name="totallyTimeSpent" value="23201000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="638" y="23" width="629" height="731" extended-state="0" />
@@ -306,7 +306,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32952693" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -675,8 +675,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/GreatestCommonDivisor.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="27" column="31" lean-forward="false" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+        <state relative-caret-position="255">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
           <folding />
         </state>
       </provider>
