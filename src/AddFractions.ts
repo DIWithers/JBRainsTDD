@@ -3,10 +3,11 @@ import { NumberTheory } from "./NumberTheory";
 export class Fraction {
     numerator: number;
     denominator: number = 1;
+    gcd: number = 1;
     constructor(numerator: number, denominator?: number) {
-        this.numerator = numerator / gcd;
+        this.numerator = numerator / this.gcd;
         if (denominator) {
-            this.denominator = denominator / gcd;
+            this.denominator = denominator / this.gcd;
         }
     }
 
