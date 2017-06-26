@@ -8,4 +8,7 @@ describe("ReduceFractionsTest", () => {
     it("reduce to non-whole numbers", () => {
         expect(new Fraction(6, 8)).toEqual(new Fraction(3, 4  ));
     });
+    it("reduce to whole numbers", () => {
+        expect(new Fraction(24, 4)).toEqual(new Fraction(6));
+    });
 });
