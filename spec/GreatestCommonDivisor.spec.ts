@@ -26,7 +26,10 @@ describe("GreatestCommonDivisorTest", () => {
     it("negative examples", () => {
         expect(NumberTheory.gcd(-24, 28)).toEqual(4);
         expect(NumberTheory.gcd(24, -28)).toEqual(4);
-
-
+    });
+    it("denominator of zero", () => {
+        expect(NumberTheory.gcd(1, 0)).toEqual(1);
+        expect(NumberTheory.gcd(0, 5)).toEqual(5);
+        expect(NumberTheory.gcd(0, 0)).toEqual(0);
     });
 });

@@ -41,5 +41,5 @@ describe("AddFractionsTest", () => {
     });
     it("negative signs everywhere", () => {
         expect(new Fraction(1, -4).plus(new Fraction(-3, -4))).toEqual(new Fraction(1, 2));
-    }); 
+    });
 });

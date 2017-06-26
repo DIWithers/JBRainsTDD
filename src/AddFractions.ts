@@ -5,6 +5,7 @@ export class Fraction {
     denominator: number = 1;
     constructor(numerator: number, denominator: number = 1) {
         let signOfDenominator: number = denominator < 0 ? -1 : 1;
+        //CONTRACT: gcd() never returns 0
         let gcd: number = NumberTheory.gcd(numerator, denominator) * signOfDenominator;
 
         this.numerator = numerator / gcd;
