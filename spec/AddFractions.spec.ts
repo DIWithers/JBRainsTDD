@@ -39,7 +39,7 @@ describe("AddFractionsTest", () => {
         expect(new Fraction(-1, 4).plus(new Fraction(3, 4))).toEqual(new Fraction(1, 2));
         expect(new Fraction(3, 8).plus(new Fraction(-1, 2))).toEqual(new Fraction(-1, 8));
     });
-    xit("negative signs everywhere", () => {
+    it("negative signs everywhere", () => {
         expect(new Fraction(1, -4).plus(new Fraction(-3, -4))).toEqual(new Fraction(1, 2));
-    }); //constructor doesn't ignore neg demoninators
+    }); 
 });
