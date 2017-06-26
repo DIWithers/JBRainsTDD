@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a298d663-4d57-41f5-9457-4834e1b6b428" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coverage/index.html" afterPath="$PROJECT_DIR$/coverage/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/ReduceFractions.spec.ts" afterPath="$PROJECT_DIR$/spec/ReduceFractions.spec.ts" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -42,10 +40,10 @@
       <file leaf-file-name="ReduceFractions.spec.ts" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/ReduceFractions.spec.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+            <state relative-caret-position="210">
+              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
               <folding>
-                <marker date="1498494258000" expanded="true" signature="327:328" ph="{...}" />
+                <marker date="1498494344000" expanded="true" signature="327:328" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -322,17 +320,11 @@
       <workItem from="1498304384642" duration="28000" />
       <workItem from="1498487665766" duration="256000" />
       <workItem from="1498487938864" duration="131000" />
-      <workItem from="1498488077276" duration="1359000" />
+      <workItem from="1498488077276" duration="1447000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JBRains - 2017.06.26 at 10h 45m 42s.xml">
-      <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
-    </history-entry>
-    <history-entry file="JBRains - 2017.06.26 at 10h 45m 43s.xml">
-      <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
-    </history-entry>
     <history-entry file="JBRains - 2017.06.26 at 10h 46m 16s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
@@ -357,9 +349,15 @@
     <history-entry file="JBRains - 2017.06.26 at 12h 24m 23s.xml">
       <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
     </history-entry>
+    <history-entry file="JBRains - 2017.06.26 at 12h 25m 51s.xml">
+      <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
+    </history-entry>
+    <history-entry file="JBRains - 2017.06.26 at 12h 25m 52s.xml">
+      <configuration name="JBRains" configurationId="JavaScriptTestRunnerKarma" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25859000" />
+    <option name="totallyTimeSpent" value="25947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="493" y="45" width="702" height="731" extended-state="0" />
@@ -411,7 +409,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/spec/ReduceFractions.spec.ts</url>
-          <line>13</line>
+          <line>16</line>
         </line-breakpoint>
       </breakpoints>
       <option name="time" value="1" />
@@ -455,7 +453,7 @@
         <state relative-caret-position="150">
           <caret line="10" column="3" lean-forward="false" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding>
-            <marker date="1498494258000" expanded="true" signature="327:328" ph="{...}" />
+            <marker date="1498494344000" expanded="true" signature="327:328" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -488,7 +486,7 @@
         <state relative-caret-position="150">
           <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
           <folding>
-            <marker date="1498494258000" expanded="true" signature="327:328" ph="{...}" />
+            <marker date="1498494344000" expanded="true" signature="327:328" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -798,10 +796,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/ReduceFractions.spec.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="33" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        <state relative-caret-position="210">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
           <folding>
-            <marker date="1498494258000" expanded="true" signature="327:328" ph="{...}" />
+            <marker date="1498494344000" expanded="true" signature="327:328" ph="{...}" />
           </folding>
         </state>
       </provider>
