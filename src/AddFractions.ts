@@ -4,7 +4,8 @@ export class Fraction {
     numerator: number;
     denominator: number = 1;
     constructor(numerator: number, denominator: number = 1) {
-        let gcd: number = NumberTheory.gcd(numerator, denominator);
+        let signOfDenominator: number = denominator < 0 ? -1 : 1;
+        let gcd: number = NumberTheory.gcd(numerator, denominator) * signOfDenominator;
 
         this.numerator = numerator / gcd;
         if (denominator) {

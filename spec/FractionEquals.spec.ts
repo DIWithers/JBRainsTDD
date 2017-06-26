@@ -15,4 +15,8 @@ describe("FractionsEqualsTest", () => {
     it("whole numbers not equal to different whole number ", () => {
         expect(new Fraction(6)).not.toEqual(new Fraction(5));
     });
+    it("negative denominator", () => {
+        expect(new Fraction(1, 2)).toEqual(new Fraction(-1, -2));
+        expect(new Fraction(1, -2)).toEqual(new Fraction(-1, 2));
+    });
 });
